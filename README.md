@@ -1,5 +1,5 @@
 # Hirst-Program
-Program that creates images similar to Damien Hirst Paintings
+Python Program that creates images similar to Damien Hirst Paintings
 
 Hirst Original:
 
