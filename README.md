@@ -1,5 +1,5 @@
 # Hirst-Program
-Python Program that creates images similar to Damien Hirst Paintings
+Python Program that uses turtle graphics library to create images similar to Damien Hirst Paintings
 
 Hirst Original:
 
